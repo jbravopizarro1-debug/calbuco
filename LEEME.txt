@@ -1,0 +1,12 @@
+MICROSITIO VOLCÁN CALBUCO — para publicar en GitHub Pages
+
+1. Cree una cuenta en github.com y un repositorio público llamado calbuco.
+2. Suba TODO el contenido de esta carpeta (index.html, localidad.html, estilos.css,
+   sitio.js, fonts/ e img/) a la raíz del repositorio.
+3. Settings › Pages › Branch: main, carpeta / (root) › Save.
+4. En uno o dos minutos el sitio queda en https://SU-USUARIO.github.io/calbuco/
+   y el selector en https://SU-USUARIO.github.io/calbuco/localidad.html
+
+Cuando tengan publicados el Web Map, la encuesta y el sitio Hub, abra sitio.js y
+pegue sus URL en el bloque CONFIG del comienzo. Mientras estén vacías, los botones
+dicen «se publica pronto» en vez de llevar a un enlace roto.
