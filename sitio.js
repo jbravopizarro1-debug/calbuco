@@ -1,7 +1,7 @@
 /* Volcán Calbuco — comportamiento de la página.
    CONFIG: pegue aquí los enlaces de ArcGIS Online cuando estén publicados. */
 const CONFIG = {
-  webmap: "https://geologiaunab.maps.arcgis.com/apps/mapviewer/index.html?webmap=364d85c45d3241ddbb73c3c18ade1d6c",   // URL del Web Map o de la aplicación en ArcGIS Online
+  webmap: "https://geologiaunab.maps.arcgis.com/apps/mapviewer/index.html?webmap=d1a804a4430a4d8592aea0491a4f72c4",   // URL del Web Map o de la aplicación en ArcGIS Online
   survey: "https://survey123.arcgis.com/share/1d7e8dcece554d3a93bb76bd26c43f9f?portalUrl=https://geologiaunab.maps.arcgis.com",   // URL pública del formulario Survey123
   datos: "https://geologiaunab.maps.arcgis.com/home/item.html?id=364d85c45d3241ddbb73c3c18ade1d6c",    // URL del elemento de ArcGIS Online con los shapefiles
   hub: "https://calbuco-geologiaunab.hub.arcgis.com"       // URL del sitio ArcGIS Hub
